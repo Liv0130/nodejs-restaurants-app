@@ -1,0 +1,22 @@
+[{
+  "id": "r1",
+  "name": "mini is babo",
+  "address": "Mini, smell, awful - 100",
+  "cuisine": "dog food",
+  "website": "https://www.mini-smell-awful.com/",
+  "description": "the smell is amazingly AWFUL"
+}, {
+  "id": "r2",
+  "name": "Ace is a good dog",
+  "address": "Ace, intelligence, fantastic",
+  "cuisine": "dog food",
+  "website": "https://www.ace-smart-cute.com",
+  "description": "cute looking, nice personality, smart intelligence, bad marriage"
+}, {
+  "id":"r3",
+  "name": "Mini goes back home on Saturday",
+  "address": "Sweden, mini, smelly - 100",
+  "cuisine": "fish",
+  "website": "https://www.mini-goes-home.com",
+  "description": "FINALLY"
+}]
